@@ -1,7 +1,7 @@
 # LUSH Marketing Strategy & Consumer Insights  
 
 ## 📊 Overview  
-Developed a strategic analysis of :contentReference[oaicite:0]{index=0}, combining market research, consumer journey mapping, and competitive analysis to evaluate brand positioning in the ethical beauty space.
+Developed a strategic analysis for Lush, combining market research, consumer journey mapping, and competitive analysis to evaluate brand positioning in the ethical beauty space.
 
 ---
 
@@ -35,7 +35,4 @@ Proposed strategies aim to increase:
 - Competitive Analysis  
 - Strategic Thinking & Storytelling  
 
----
 
-## 📎 File  
-- Full presentation deck included (PDF)
